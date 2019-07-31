@@ -15,5 +15,8 @@ $(document).ready(function () {
 	var answers = [];
     var currentQuestion = 0;
     
-    //Question Object Array
-    
+		//Question Object Array
+		
+		console.log("Hello World!!");
+		
+}); 

@@ -1,0 +1,15 @@
+
+.jumbotron {
+font-family: 'Audiowide', cursive;
+color: #ff0080;
+font-size: 60px;
+min-height: 100vh;
+margin: 0;
+
+}
+.choice {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}

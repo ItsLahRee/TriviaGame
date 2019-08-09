@@ -3,9 +3,7 @@ Web based game featuring JavaScript logic and dynamic HTML updates using the JQu
 
 ## Instillation
 
-Realative link:
-
-https://github.com/ItsLahRee/TriviaGame
+Deployed link: https://itslahree.github.io/TriviaGame/
 
 ## Technologies Used
 

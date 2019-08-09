@@ -1,15 +1,17 @@
+#gameboard {
+  flex-flow: row wrap;
+  background-color: #ff0080;
+  cursor: pointer;
+  max-width: 80%;
+  align-content: center;
+  
 
-.jumbotron {
+}
+
+.headline {
 font-family: 'Audiowide', cursive;
+text-align: center;
 color: #ff0080;
 font-size: 60px;
-min-height: 100vh;
-margin: 0;
+}
 
-}
-.choice {
-  border: 1px solid lightgrey;
-  padding: 10px;
-  border-radius: 4px;
-  cursor: pointer;
-}

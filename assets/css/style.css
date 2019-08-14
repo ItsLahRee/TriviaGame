@@ -1,6 +1,6 @@
 #gameboard {
   flex-flow: row wrap;
-  background-color: #ff0080;
+  background-color: hotpink;
   cursor: pointer;
   max-width: 80%;
   align-content: center;
@@ -13,5 +13,11 @@ font-family: 'Audiowide', cursive;
 text-align: center;
 color: #ff0080;
 font-size: 60px;
+}
+html {
+  background-color: blueviolet;
+  background-repeat: no-repeat;
+  background-position: right top;
+  z-index: 1;
 }
 

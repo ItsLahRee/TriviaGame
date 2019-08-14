@@ -17,8 +17,8 @@ If you have something interesting to contribute, send me a pull request!
 
 ItsLahRee 2019
 
-========================================================================================
-# JavaScript Assignment 2
+====================================================================================
+# JavaScript Assignment 2 
 
 ### Overview
 
